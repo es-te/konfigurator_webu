@@ -1,9 +1,9 @@
 {
   "name": "konfigurator_webu",
+  "homepage": "https://es-te.github.io/konfigurator_webu",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pracovnimac-standa.github.io/konfigurator_webu",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
