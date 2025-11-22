@@ -1,7 +1,7 @@
 {
   "name": "konfigurator_webu",
-  "homepage": "https://es-te.github.io/konfigurator_webu",
-  "private": true,
+  "homepage": "https://es-te.github.io/konfigurator_webu/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
